@@ -11,7 +11,7 @@ Given my limited knowledge of web scraping I encountered some difficulties in th
 | Title | The title of the poem    |    
 | Poem | The processed scraped poem; may still contain irrelevant information       |
 
-This repository contains the Jupyer Notebook that details all the scraping and processing steps that were performed along with the above-mentioned exported .csv file.
+This repository contains the Jupyter Notebook that details all the scraping and processing steps that were performed along with the above-mentioned exported .csv file.
 
 ## Licensing:
 Before performing any scraping I searched for the "Terms and Conditions" document on Casa Fernando Pessoa's website but I could not find such a document, neither any information on how the poems published on their website could be used. I did send them an email requesting access to the poems that I wanted to scrape, and I hope to receive an answer soon. I went ahead with the scraping task, but I will take this project down in case complaints will arise. This project is done purely out of a fascination with Pessoa's literary universe and is not intended to be used for any commercial purposes. I do not derive any rights from the work included in this repository, besides the scraping and cleaning operations that I performed.
